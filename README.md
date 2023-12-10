@@ -19,7 +19,7 @@ Before using MKV Manager, ensure that you have power shell installed on your sys
    ```
 
 4. Follow the on-screen prompts to manage your MKV files.
-:warning: **Note:** The script will manage all MKV files in the directory where the parent folder is located.
+> :warning: **Note:** The script will manage all MKV files in the directory where the parent folder is located.
 
 ## Features
 
